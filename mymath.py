@@ -5,6 +5,9 @@ def myMultiply(x, y):
 
 def myAdd(x, y):
     return x + y
+ 
+def myDivide(x,y):
+    return x/y
     
 def __main__():
     print "beginning of main"
